@@ -6,7 +6,7 @@ Full Time Java, Unity and Flutter Developer
 
 I began my development journey in 2015, starting with some easy Minecraft Plugins written in Java. Since I'm really interested in games and mobile development, I decided to learn Unity and C# in 2018, and later on Flutter and Dart in 2022. Since then, I have developed quite some Minecraft Plugins, Mods, Unity games and Flutter apps!
 
-* Plugin Developer at __ZedarMC__
+* Lead Developer @__ZedarMC__
 
 [![wakatime](https://wakatime.com/badge/user/7d1270b5-62d7-4404-b0ae-9c1f0b073d50.svg)](https://wakatime.com/@7d1270b5-62d7-4404-b0ae-9c1f0b073d50)
 
