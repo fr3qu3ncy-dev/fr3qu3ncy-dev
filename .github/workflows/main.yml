@@ -16,5 +16,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          base: repositories
+          base: header, activity, community, repositories, metadata
           plugin_lines: yes
