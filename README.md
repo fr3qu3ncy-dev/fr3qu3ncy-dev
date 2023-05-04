@@ -35,5 +35,5 @@ I began my development journey in 2015, starting with some easy Minecraft Plugin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/fr3qu3ncy-dev"><img src="https://github-readme-stats.vercel.app/api?username=fr3qu3ncy-dev&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fr3qu3ncy-dev's GitHub stats" /></a><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fr3qu3ncy-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com/fr3qu3ncy-dev"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fr3qu3ncy-dev&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fr3qu3ncy-dev's GitHub stats" /></a><br>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fr3qu3ncy-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
